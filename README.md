@@ -9,8 +9,7 @@ hidden_2 : 64D\\
 output_{softmax}: 10\\
 \end{aligned}
 $$
-$784D\rightarrow128D\rightarrow64\rightarrow10_{softmax}
-$$
+$784D\rightarrow128D\rightarrow64\rightarrow10_{softmax}$
 ---
 structure:
 ```
